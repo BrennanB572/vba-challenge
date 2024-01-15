@@ -19,4 +19,4 @@ Create a script that loops through all the stocks for one year and outputs the f
 
   ![image](https://github.com/BrennanB572/vba-challenge/assets/114636599/2bdd93aa-a124-4f8d-a42b-0e55183ec175)
 
-  # Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
+   Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
